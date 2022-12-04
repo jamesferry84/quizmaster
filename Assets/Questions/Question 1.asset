@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d63097d77c5a04530a6f6e5e15b286ff, type: 3}
   m_Name: Question 1
   m_EditorClassIdentifier: 
-  question: Enter new question text here
+  question: What is my name?
   answers:
-  - 
-  - 
-  - 
-  - 
+  - James
+  - Wenting
+  - Emily
+  - Bubba
   correctAnswerIndex: 0
